@@ -71,4 +71,4 @@ solar-iot-monitor/
 
 ## 👤 Author
 **Uday Kiran Kummari**
-ECE, IIIT Sricity | [LinkedIn](https://linkedin.com/in/uday-kiran-kummari-4924083bb) | [GitHub](https://github.com/udaykirank23-bli)
+ECE, IIIT Sricity 
