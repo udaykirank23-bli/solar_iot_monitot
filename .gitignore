@@ -1,0 +1,8 @@
+src/certs/
+data/
+.ipynb_checkpoints/
+*.ipynb
+.env
+__pycache__/
+*.pyc
+venv/
