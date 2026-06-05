@@ -1,8 +1,17 @@
+# Certificates — never push these!
 src/certs/
-data/
-.ipynb_checkpoints/
-*.ipynb
+
+# Raw data files (too large)
+data/Plant_1_Generation_Data.csv
+data/Plant_1_Weather_Sensor_Data.csv
+data/processed_data.csv
+data/fault_records.csv
+
+# Plots
+data/*.png
+
+# Environment
 .env
+venv/
 __pycache__/
 *.pyc
-venv/
